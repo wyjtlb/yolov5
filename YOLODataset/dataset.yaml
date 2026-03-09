@@ -1,0 +1,9 @@
+path: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset
+train: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset/images/train
+val: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset/images/val
+test:
+
+nc: 1
+
+names:
+    0: orange
