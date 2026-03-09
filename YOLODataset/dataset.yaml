@@ -1,6 +1,6 @@
-path: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset
-train: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset/images/train
-val: /Users/wuyongjie/PycharmProjects/yolov7/YOLODataset/images/val
+path: /Users/wuyongjie/PycharmProjects/yolov5/YOLODataset
+train: /Users/wuyongjie/PycharmProjects/yolov5/YOLODataset/images/train
+val: /Users/wuyongjie/PycharmProjects/yolov5/YOLODataset/images/val
 test:
 
 nc: 1
